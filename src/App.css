@@ -1,6 +1,6 @@
 body {
   font-family: 'Comfortaa', sans-serif;
-  background-color: #f4f4f9;
+  background-color: #f8f9fa;
   margin: 0;
   padding: 0;
 }
@@ -30,23 +30,24 @@ body {
 }
 
 .card-title {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   color: #007bff;
 }
 
 .card-subtitle {
-  font-size: 0.875rem;
+  font-size: 1rem;
   color: #6c757d;
 }
 
 .card-text {
-  font-size: 1rem;
+  font-size: 1.125rem;
   color: #495057;
 }
 
 .list-group-item {
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
+  font-size: 1.125rem;
 }
 
 .list-group-item:hover {
